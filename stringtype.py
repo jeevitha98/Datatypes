@@ -4,7 +4,7 @@ print(s)
 #indexing
 print(s[3])
 
-#display string several times
+#repetition-display string several times
 print(s*3)
 
 #length of string
