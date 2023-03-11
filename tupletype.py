@@ -1,9 +1,9 @@
-tpl=(100,30,56,"gfh")
+tpl=(100,30,56,"abc")
 print(tpl)
 print(tpl[3])
 print(tpl*2)
 print(tpl.count(40))
-print(tpl.index("gfh"))
+print(tpl.index("abc"))
 
 lst=[65,22,"xyz"]
 print(type(lst))
